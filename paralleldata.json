@@ -1,0 +1,1562 @@
+[
+  {
+    "countrycode": 1,
+    "population": 33700000,
+    "per_capita_income": 1750,
+    "life_expectancy": 57.9,
+    "energy_use_per_person": 680,
+    "CO2_emission_per_person": 0.299
+  },
+  {
+    "countrycode": 2,
+    "population": 2920000,
+    "per_capita_income": 11000,
+    "life_expectancy": 77.6,
+    "energy_use_per_person": 1070,
+    "CO2_emission_per_person": 1.96
+  },
+  {
+    "countrycode": 3,
+    "population": 39900000,
+    "per_capita_income": 13700,
+    "life_expectancy": 77.3,
+    "energy_use_per_person": 470,
+    "CO2_emission_per_person": 3.72
+  },
+  {
+    "countrycode": 4,
+    "population": 78000,
+    "per_capita_income": 46600,
+    "life_expectancy": 82.5,
+    "energy_use_per_person": 1600,
+    "CO2_emission_per_person": 5.83
+  },
+  {
+    "countrycode": 5,
+    "population": 27900000,
+    "per_capita_income": 6230,
+    "life_expectancy": 64,
+    "energy_use_per_person": 1850,
+    "CO2_emission_per_person": 1.29
+  },
+  {
+    "countrycode": 6,
+    "population": 99900,
+    "per_capita_income": 20100,
+    "life_expectancy": 77.2,
+    "energy_use_per_person": 973,
+    "CO2_emission_per_person": 5.38
+  },
+  {
+    "countrycode": 7,
+    "population": 43400000,
+    "per_capita_income": 19100,
+    "life_expectancy": 76.5,
+    "energy_use_per_person": 5870,
+    "CO2_emission_per_person": 4.75
+  },
+  {
+    "countrycode": 8,
+    "population": 2920000,
+    "per_capita_income": 8180,
+    "life_expectancy": 75.4,
+    "energy_use_per_person": 4020,
+    "CO2_emission_per_person": 1.9
+  },
+  {
+    "countrycode": 9,
+    "population": 23800000,
+    "per_capita_income": 43800,
+    "life_expectancy": 82.6,
+    "energy_use_per_person": 1410,
+    "CO2_emission_per_person": 15.4
+  },
+  {
+    "countrycode": 10,
+    "population": 8680000,
+    "per_capita_income": 44100,
+    "life_expectancy": 81.4,
+    "energy_use_per_person": 2070,
+    "CO2_emission_per_person": 6.8
+  },
+  {
+    "countrycode": 11,
+    "population": 9620000,
+    "per_capita_income": 16700,
+    "life_expectancy": 71.8,
+    "energy_use_per_person": 11200,
+    "CO2_emission_per_person": 3.94
+  },
+  {
+    "countrycode": 12,
+    "population": 387000,
+    "per_capita_income": 21700,
+    "life_expectancy": 73.6,
+    "energy_use_per_person": 173,
+    "CO2_emission_per_person": 6.32
+  },
+  {
+    "countrycode": 13,
+    "population": 1370000,
+    "per_capita_income": 44500,
+    "life_expectancy": 76.8,
+    "energy_use_per_person": 1450,
+    "CO2_emission_per_person": 23.4
+  },
+  {
+    "countrycode": 14,
+    "population": 161000000,
+    "per_capita_income": 3130,
+    "life_expectancy": 72.4,
+    "energy_use_per_person": 2920,
+    "CO2_emission_per_person": 0.459
+  },
+  {
+    "countrycode": 15,
+    "population": 284000,
+    "per_capita_income": 15400,
+    "life_expectancy": 76.6,
+    "energy_use_per_person": 5340,
+    "CO2_emission_per_person": 4.49
+  },
+  {
+    "countrycode": 16,
+    "population": 9490000,
+    "per_capita_income": 17200,
+    "life_expectancy": 73.3,
+    "energy_use_per_person": 597,
+    "CO2_emission_per_person": 6.69
+  },
+  {
+    "countrycode": 17,
+    "population": 11300000,
+    "per_capita_income": 41700,
+    "life_expectancy": 80.9,
+    "energy_use_per_person": 379,
+    "CO2_emission_per_person": 8.32
+  },
+  {
+    "countrycode": 18,
+    "population": 359000,
+    "per_capita_income": 8060,
+    "life_expectancy": 71.9,
+    "energy_use_per_person": 355,
+    "CO2_emission_per_person": 1.41
+  },
+  {
+    "countrycode": 19,
+    "population": 10600000,
+    "per_capita_income": 1990,
+    "life_expectancy": 63.9,
+    "energy_use_per_person": 561,
+    "CO2_emission_per_person": 0.614
+  },
+  {
+    "countrycode": 20,
+    "population": 787000,
+    "per_capita_income": 7740,
+    "life_expectancy": 73.8,
+    "energy_use_per_person": 1410,
+    "CO2_emission_per_person": 1.29
+  },
+  {
+    "countrycode": 21,
+    "population": 10700000,
+    "per_capita_income": 6530,
+    "life_expectancy": 73,
+    "energy_use_per_person": 1040,
+    "CO2_emission_per_person": 1.93
+  },
+  {
+    "countrycode": 22,
+    "population": 3540000,
+    "per_capita_income": 10900,
+    "life_expectancy": 77.4,
+    "energy_use_per_person": 1230,
+    "CO2_emission_per_person": 6.23
+  },
+  {
+    "countrycode": 23,
+    "population": 2210000,
+    "per_capita_income": 15400,
+    "life_expectancy": 64.6,
+    "energy_use_per_person": 8610,
+    "CO2_emission_per_person": 3.24
+  },
+  {
+    "countrycode": 24,
+    "population": 206000000,
+    "per_capita_income": 14700,
+    "life_expectancy": 75.2,
+    "energy_use_per_person": 2670,
+    "CO2_emission_per_person": 2.59
+  },
+  {
+    "countrycode": 25,
+    "population": 418000,
+    "per_capita_income": 74600,
+    "life_expectancy": 76.9,
+    "energy_use_per_person": 254,
+    "CO2_emission_per_person": 22.1
+  },
+  {
+    "countrycode": 26,
+    "population": 7180000,
+    "per_capita_income": 17000,
+    "life_expectancy": 75,
+    "energy_use_per_person": 345,
+    "CO2_emission_per_person": 5.87
+  },
+  {
+    "countrycode": 27,
+    "population": 18100000,
+    "per_capita_income": 1550,
+    "life_expectancy": 60.3,
+    "energy_use_per_person": 8210,
+    "CO2_emission_per_person": 0.162
+  },
+  {
+    "countrycode": 28,
+    "population": 10200000,
+    "per_capita_income": 749,
+    "life_expectancy": 60,
+    "energy_use_per_person": 212,
+    "CO2_emission_per_person": 0.0445
+  },
+  {
+    "countrycode": 29,
+    "population": 15500000,
+    "per_capita_income": 3290,
+    "life_expectancy": 68.3,
+    "energy_use_per_person": 1860,
+    "CO2_emission_per_person": 0.438
+  },
+  {
+    "countrycode": 30,
+    "population": 22800000,
+    "per_capita_income": 2990,
+    "life_expectancy": 59.7,
+    "energy_use_per_person": 1630,
+    "CO2_emission_per_person": 0.315
+  },
+  {
+    "countrycode": 31,
+    "population": 35900000,
+    "per_capita_income": 43000,
+    "life_expectancy": 81.7,
+    "energy_use_per_person": 638,
+    "CO2_emission_per_person": 15.1
+  },
+  {
+    "countrycode": 32,
+    "population": 533000,
+    "per_capita_income": 5920,
+    "life_expectancy": 73.4,
+    "energy_use_per_person": 63.9,
+    "CO2_emission_per_person": 0.933
+  },
+  {
+    "countrycode": 33,
+    "population": 4550000,
+    "per_capita_income": 626,
+    "life_expectancy": 49.7,
+    "energy_use_per_person": 307,
+    "CO2_emission_per_person": 0.0666
+  },
+  {
+    "countrycode": 34,
+    "population": 14000000,
+    "per_capita_income": 2050,
+    "life_expectancy": 59.2,
+    "energy_use_per_person": 317,
+    "CO2_emission_per_person": 0.0538
+  },
+  {
+    "countrycode": 35,
+    "population": 17800000,
+    "per_capita_income": 22500,
+    "life_expectancy": 80.1,
+    "energy_use_per_person": 1030,
+    "CO2_emission_per_person": 4.69
+  },
+  {
+    "countrycode": 36,
+    "population": 1400000000,
+    "per_capita_income": 13600,
+    "life_expectancy": 76.3,
+    "energy_use_per_person": 533,
+    "CO2_emission_per_person": 7.4
+  },
+  {
+    "countrycode": 37,
+    "population": 48200000,
+    "per_capita_income": 13000,
+    "life_expectancy": 78,
+    "energy_use_per_person": 2270,
+    "CO2_emission_per_person": 1.76
+  },
+  {
+    "countrycode": 38,
+    "population": 777000,
+    "per_capita_income": 1410,
+    "life_expectancy": 67.3,
+    "energy_use_per_person": 897,
+    "CO2_emission_per_person": 0.203
+  },
+  {
+    "countrycode": 39,
+    "population": 76200000,
+    "per_capita_income": 750,
+    "life_expectancy": 60.9,
+    "energy_use_per_person": 2290,
+    "CO2_emission_per_person": 0.0634
+  },
+  {
+    "countrycode": 40,
+    "population": 5000000,
+    "per_capita_income": 5540,
+    "life_expectancy": 62.6,
+    "energy_use_per_person": 4470,
+    "CO2_emission_per_person": 0.635
+  },
+  {
+    "countrycode": 41,
+    "population": 4810000,
+    "per_capita_income": 14900,
+    "life_expectancy": 80.9,
+    "energy_use_per_person": 3620,
+    "CO2_emission_per_person": 1.63
+  },
+  {
+    "countrycode": 42,
+    "population": 23100000,
+    "per_capita_income": 3250,
+    "life_expectancy": 59.2,
+    "energy_use_per_person": 177,
+    "CO2_emission_per_person": 0.49
+  },
+  {
+    "countrycode": 43,
+    "population": 4240000,
+    "per_capita_income": 20600,
+    "life_expectancy": 77.3,
+    "energy_use_per_person": 606,
+    "CO2_emission_per_person": 3.96
+  },
+  {
+    "countrycode": 44,
+    "population": 11500000,
+    "per_capita_income": 20000,
+    "life_expectancy": 78.9,
+    "energy_use_per_person": 766,
+    "CO2_emission_per_person": 3.05
+  },
+  {
+    "countrycode": 45,
+    "population": 1160000,
+    "per_capita_income": 30400,
+    "life_expectancy": 80.5,
+    "energy_use_per_person": 747,
+    "CO2_emission_per_person": 5.26
+  },
+  {
+    "countrycode": 46,
+    "population": 10600000,
+    "per_capita_income": 30400,
+    "life_expectancy": 78.9,
+    "energy_use_per_person": 875,
+    "CO2_emission_per_person": 9.1
+  },
+  {
+    "countrycode": 47,
+    "population": 5690000,
+    "per_capita_income": 45500,
+    "life_expectancy": 80.7,
+    "energy_use_per_person": 736,
+    "CO2_emission_per_person": 5.91
+  },
+  {
+    "countrycode": 48,
+    "population": 927000,
+    "per_capita_income": 3140,
+    "life_expectancy": 66.1,
+    "energy_use_per_person": 2120,
+    "CO2_emission_per_person": 0.792
+  },
+  {
+    "countrycode": 49,
+    "population": 73200,
+    "per_capita_income": 10100,
+    "life_expectancy": 71.7,
+    "energy_use_per_person": 173,
+    "CO2_emission_per_person": 1.86
+  },
+  {
+    "countrycode": 50,
+    "population": 10500000,
+    "per_capita_income": 13400,
+    "life_expectancy": 75.5,
+    "energy_use_per_person": 4240,
+    "CO2_emission_per_person": 2.07
+  },
+  {
+    "countrycode": 51,
+    "population": 16100000,
+    "per_capita_income": 10800,
+    "life_expectancy": 77.9,
+    "energy_use_per_person": 484,
+    "CO2_emission_per_person": 2.76
+  },
+  {
+    "countrycode": 52,
+    "population": 93800000,
+    "per_capita_income": 10100,
+    "life_expectancy": 71.9,
+    "energy_use_per_person": 628,
+    "CO2_emission_per_person": 2.2
+  },
+  {
+    "countrycode": 53,
+    "population": 6310000,
+    "per_capita_income": 7850,
+    "life_expectancy": 75,
+    "energy_use_per_person": 6970,
+    "CO2_emission_per_person": 1
+  },
+  {
+    "countrycode": 54,
+    "population": 1180000,
+    "per_capita_income": 27200,
+    "life_expectancy": 65.2,
+    "energy_use_per_person": 4120,
+    "CO2_emission_per_person": 4.73
+  },
+  {
+    "countrycode": 55,
+    "population": 4850000,
+    "per_capita_income": 1240,
+    "life_expectancy": 63.4,
+    "energy_use_per_person": 2530,
+    "CO2_emission_per_person": 0.147
+  },
+  {
+    "countrycode": 56,
+    "population": 1320000,
+    "per_capita_income": 27300,
+    "life_expectancy": 77.2,
+    "energy_use_per_person": 86.4,
+    "CO2_emission_per_person": 14.8
+  },
+  {
+    "countrycode": 57,
+    "population": 99900000,
+    "per_capita_income": 1530,
+    "life_expectancy": 65.2,
+    "energy_use_per_person": 819,
+    "CO2_emission_per_person": 0.119
+  },
+  {
+    "countrycode": 58,
+    "population": 892000,
+    "per_capita_income": 8760,
+    "life_expectancy": 65.5,
+    "energy_use_per_person": 3990,
+    "CO2_emission_per_person": 1.32
+  },
+  {
+    "countrycode": 59,
+    "population": 5480000,
+    "per_capita_income": 39000,
+    "life_expectancy": 81.5,
+    "energy_use_per_person": 276,
+    "CO2_emission_per_person": 8.66
+  },
+  {
+    "countrycode": 60,
+    "population": 64500000,
+    "per_capita_income": 37800,
+    "life_expectancy": 82.2,
+    "energy_use_per_person": 2730,
+    "CO2_emission_per_person": 4.72
+  },
+  {
+    "countrycode": 61,
+    "population": 1930000,
+    "per_capita_income": 16800,
+    "life_expectancy": 66,
+    "energy_use_per_person": 782,
+    "CO2_emission_per_person": 2.77
+  },
+  {
+    "countrycode": 62,
+    "population": 1980000,
+    "per_capita_income": 1590,
+    "life_expectancy": 67,
+    "energy_use_per_person": 621,
+    "CO2_emission_per_person": 0.268
+  },
+  {
+    "countrycode": 63,
+    "population": 3950000,
+    "per_capita_income": 9030,
+    "life_expectancy": 73.7,
+    "energy_use_per_person": 65.7,
+    "CO2_emission_per_person": 2.25
+  },
+  {
+    "countrycode": 64,
+    "population": 81700000,
+    "per_capita_income": 43800,
+    "life_expectancy": 80.8,
+    "energy_use_per_person": 669,
+    "CO2_emission_per_person": 8.83
+  },
+  {
+    "countrycode": 65,
+    "population": 27600000,
+    "per_capita_income": 3930,
+    "life_expectancy": 65.4,
+    "energy_use_per_person": 385,
+    "CO2_emission_per_person": 0.537
+  },
+  {
+    "countrycode": 66,
+    "population": 11200000,
+    "per_capita_income": 24100,
+    "life_expectancy": 81,
+    "energy_use_per_person": 608,
+    "CO2_emission_per_person": 5.98
+  },
+  {
+    "countrycode": 67,
+    "population": 107000,
+    "per_capita_income": 12700,
+    "life_expectancy": 71.4,
+    "energy_use_per_person": 2660,
+    "CO2_emission_per_person": 2.28
+  },
+  {
+    "countrycode": 68,
+    "population": 16300000,
+    "per_capita_income": 7290,
+    "life_expectancy": 72.5,
+    "energy_use_per_person": 14700,
+    "CO2_emission_per_person": 1.15
+  },
+  {
+    "countrycode": 69,
+    "population": 12100000,
+    "per_capita_income": 1180,
+    "life_expectancy": 60,
+    "energy_use_per_person": 487,
+    "CO2_emission_per_person": 0.207
+  },
+  {
+    "countrycode": 70,
+    "population": 1770000,
+    "per_capita_income": 1420,
+    "life_expectancy": 58.2,
+    "energy_use_per_person": 786,
+    "CO2_emission_per_person": 0.157
+  },
+  {
+    "countrycode": 71,
+    "population": 769000,
+    "per_capita_income": 7060,
+    "life_expectancy": 67,
+    "energy_use_per_person": 2650,
+    "CO2_emission_per_person": 2.63
+  },
+  {
+    "countrycode": 72,
+    "population": 10700000,
+    "per_capita_income": 1650,
+    "life_expectancy": 63.9,
+    "energy_use_per_person": 894,
+    "CO2_emission_per_person": 0.271
+  },
+  {
+    "countrycode": 73,
+    "population": 803,
+    "per_capita_income": 4310,
+    "life_expectancy": 72.5,
+    "energy_use_per_person": 3420,
+    "CO2_emission_per_person": 1.08
+  },
+  {
+    "countrycode": 74,
+    "population": 8960000,
+    "per_capita_income": 24800,
+    "life_expectancy": 75.7,
+    "energy_use_per_person": 2900,
+    "CO2_emission_per_person": 4.29
+  },
+  {
+    "countrycode": 75,
+    "population": 9780000,
+    "per_capita_income": 42700,
+    "life_expectancy": 82.2,
+    "energy_use_per_person": 3150,
+    "CO2_emission_per_person": 6.04
+  },
+  {
+    "countrycode": 76,
+    "population": 330000,
+    "per_capita_income": 5750,
+    "life_expectancy": 68.2,
+    "energy_use_per_person": 1510,
+    "CO2_emission_per_person": 1.73
+  },
+  {
+    "countrycode": 77,
+    "population": 1310000000,
+    "per_capita_income": 10400,
+    "life_expectancy": 71.4,
+    "energy_use_per_person": 4010,
+    "CO2_emission_per_person": 1.82
+  },
+  {
+    "countrycode": 78,
+    "population": 258000000,
+    "per_capita_income": 16000,
+    "life_expectancy": 75.8,
+    "energy_use_per_person": 1160,
+    "CO2_emission_per_person": 8.28
+  },
+  {
+    "countrycode": 79,
+    "population": 79400000,
+    "per_capita_income": 14900,
+    "life_expectancy": 67.6,
+    "energy_use_per_person": 4270,
+    "CO2_emission_per_person": 4.81
+  },
+  {
+    "countrycode": 80,
+    "population": 36100000,
+    "per_capita_income": 60900,
+    "life_expectancy": 81.1,
+    "energy_use_per_person": 448,
+    "CO2_emission_per_person": 7.27
+  },
+  {
+    "countrycode": 81,
+    "population": 4700000,
+    "per_capita_income": 32000,
+    "life_expectancy": 82,
+    "energy_use_per_person": 114,
+    "CO2_emission_per_person": 8.13
+  },
+  {
+    "countrycode": 82,
+    "population": 8060000,
+    "per_capita_income": 34200,
+    "life_expectancy": 82.3,
+    "energy_use_per_person": 10500,
+    "CO2_emission_per_person": 5.38
+  },
+  {
+    "countrycode": 83,
+    "population": 59500000,
+    "per_capita_income": 8110,
+    "life_expectancy": 74.9,
+    "energy_use_per_person": 561,
+    "CO2_emission_per_person": 2.59
+  },
+  {
+    "countrycode": 84,
+    "population": 2870000,
+    "per_capita_income": 37800,
+    "life_expectancy": 83.8,
+    "energy_use_per_person": 2180,
+    "CO2_emission_per_person": 9.47
+  },
+  {
+    "countrycode": 85,
+    "population": 128000000,
+    "per_capita_income": 8490,
+    "life_expectancy": 76.8,
+    "energy_use_per_person": 1030,
+    "CO2_emission_per_person": 3
+  },
+  {
+    "countrycode": 86,
+    "population": 9160000,
+    "per_capita_income": 23500,
+    "life_expectancy": 71.6,
+    "energy_use_per_person": 9.58,
+    "CO2_emission_per_person": 14.2
+  },
+  {
+    "countrycode": 87,
+    "population": 17700000,
+    "per_capita_income": 2840,
+    "life_expectancy": 66.3,
+    "energy_use_per_person": 2800,
+    "CO2_emission_per_person": 0.31
+  },
+  {
+    "countrycode": 88,
+    "population": 47200000,
+    "per_capita_income": 1870,
+    "life_expectancy": 61.6,
+    "energy_use_per_person": 2930,
+    "CO2_emission_per_person": 0.564
+  },
+  {
+    "countrycode": 89,
+    "population": 112000,
+    "per_capita_income": 69300,
+    "life_expectancy": 79.8,
+    "energy_use_per_person": 8770,
+    "CO2_emission_per_person": 25.2
+  },
+  {
+    "countrycode": 90,
+    "population": 3940000,
+    "per_capita_income": 3240,
+    "life_expectancy": 71.1,
+    "energy_use_per_person": 1460,
+    "CO2_emission_per_person": 1.66
+  },
+  {
+    "countrycode": 91,
+    "population": 5870000,
+    "per_capita_income": 5430,
+    "life_expectancy": 66.8,
+    "energy_use_per_person": 2720,
+    "CO2_emission_per_person": 0.297
+  },
+  {
+    "countrycode": 92,
+    "population": 6660000,
+    "per_capita_income": 23100,
+    "life_expectancy": 74.8,
+    "energy_use_per_person": 890,
+    "CO2_emission_per_person": 3.46
+  },
+  {
+    "countrycode": 93,
+    "population": 1990000,
+    "per_capita_income": 13100,
+    "life_expectancy": 80.1,
+    "energy_use_per_person": 2160,
+    "CO2_emission_per_person": 4.3
+  },
+  {
+    "countrycode": 94,
+    "population": 5850000,
+    "per_capita_income": 2780,
+    "life_expectancy": 49.6,
+    "energy_use_per_person": 614,
+    "CO2_emission_per_person": 1.15
+  },
+  {
+    "countrycode": 95,
+    "population": 2170000,
+    "per_capita_income": 785,
+    "life_expectancy": 63.8,
+    "energy_use_per_person": 1010,
+    "CO2_emission_per_person": 0.213
+  },
+  {
+    "countrycode": 96,
+    "population": 4500000,
+    "per_capita_income": 13500,
+    "life_expectancy": 74.2,
+    "energy_use_per_person": 1620,
+    "CO2_emission_per_person": 9.19
+  },
+  {
+    "countrycode": 97,
+    "population": 6230000,
+    "per_capita_income": 27000,
+    "life_expectancy": 74.9,
+    "energy_use_per_person": 939,
+    "CO2_emission_per_person": 1.19
+  },
+  {
+    "countrycode": 98,
+    "population": 37400,
+    "per_capita_income": 95300,
+    "life_expectancy": 82,
+    "energy_use_per_person": 1380,
+    "CO2_emission_per_person": 4.33
+  },
+  {
+    "countrycode": 99,
+    "population": 2930000,
+    "per_capita_income": 12800,
+    "life_expectancy": 74.6,
+    "energy_use_per_person": 1930,
+    "CO2_emission_per_person": 17.4
+  },
+  {
+    "countrycode": 100,
+    "population": 567000,
+    "per_capita_income": 1380,
+    "life_expectancy": 62.3,
+    "energy_use_per_person": 499,
+    "CO2_emission_per_person": 3.61
+  },
+  {
+    "countrycode": 101,
+    "population": 2080000,
+    "per_capita_income": 1090,
+    "life_expectancy": 59.4,
+    "energy_use_per_person": 411,
+    "CO2_emission_per_person": 0.13
+  },
+  {
+    "countrycode": 102,
+    "population": 24200000,
+    "per_capita_income": 25000,
+    "life_expectancy": 75.4,
+    "energy_use_per_person": 319,
+    "CO2_emission_per_person": 0.0748
+  },
+  {
+    "countrycode": 103,
+    "population": 17600000,
+    "per_capita_income": 12000,
+    "life_expectancy": 79.3,
+    "energy_use_per_person": 657,
+    "CO2_emission_per_person": 8.03
+  },
+  {
+    "countrycode": 104,
+    "population": 30700000,
+    "per_capita_income": 1920,
+    "life_expectancy": 61.4,
+    "energy_use_per_person": 355,
+    "CO2_emission_per_person": 3.27
+  },
+  {
+    "countrycode": 105,
+    "population": 418000,
+    "per_capita_income": 34400,
+    "life_expectancy": 81.3,
+    "energy_use_per_person": 4910,
+    "CO2_emission_per_person": 0.0832
+  },
+  {
+    "countrycode": 106,
+    "population": 17500000,
+    "per_capita_income": 3670,
+    "life_expectancy": 64.7,
+    "energy_use_per_person": 4050,
+    "CO2_emission_per_person": 5.51
+  },
+  {
+    "countrycode": 107,
+    "population": 428000,
+    "per_capita_income": 3600,
+    "life_expectancy": 70,
+    "energy_use_per_person": 522,
+    "CO2_emission_per_person": 1.94
+  },
+  {
+    "countrycode": 108,
+    "population": 53000,
+    "per_capita_income": 18900,
+    "life_expectancy": 74.5,
+    "energy_use_per_person": 127,
+    "CO2_emission_per_person": 0.667
+  },
+  {
+    "countrycode": 109,
+    "population": 4180000,
+    "per_capita_income": 16700,
+    "life_expectancy": 76.2,
+    "energy_use_per_person": 751,
+    "CO2_emission_per_person": 3.36
+  },
+  {
+    "countrycode": 110,
+    "population": 1260000,
+    "per_capita_income": 3290,
+    "life_expectancy": 65.3,
+    "energy_use_per_person": 756,
+    "CO2_emission_per_person": 3.87
+  },
+  {
+    "countrycode": 111,
+    "population": 126000000,
+    "per_capita_income": 4750,
+    "life_expectancy": 72.1,
+    "energy_use_per_person": 5860,
+    "CO2_emission_per_person": 1.45
+  },
+  {
+    "countrycode": 112,
+    "population": 104000,
+    "per_capita_income": 58800,
+    "life_expectancy": 68.2,
+    "energy_use_per_person": 6650,
+    "CO2_emission_per_person": 1.21
+  },
+  {
+    "countrycode": 113,
+    "population": 4070000,
+    "per_capita_income": 11400,
+    "life_expectancy": 76.9,
+    "energy_use_per_person": 524,
+    "CO2_emission_per_person": 7.13
+  },
+  {
+    "countrycode": 114,
+    "population": 38300,
+    "per_capita_income": 15300,
+    "life_expectancy": 74.8,
+    "energy_use_per_person": "",
+    "CO2_emission_per_person": 3.52
+  },
+  {
+    "countrycode": 115,
+    "population": 2980000,
+    "per_capita_income": 7290,
+    "life_expectancy": 59,
+    "energy_use_per_person": 882,
+    "CO2_emission_per_person": 1.74
+  },
+  {
+    "countrycode": 116,
+    "population": 628000,
+    "per_capita_income": 1120,
+    "life_expectancy": 69.5,
+    "energy_use_per_person": 709,
+    "CO2_emission_per_person": 0.31
+  },
+  {
+    "countrycode": 117,
+    "population": 34800000,
+    "per_capita_income": 5070,
+    "life_expectancy": 64.3,
+    "energy_use_per_person": 507,
+    "CO2_emission_per_person": 0.417
+  },
+  {
+    "countrycode": 118,
+    "population": 28000000,
+    "per_capita_income": 9910,
+    "life_expectancy": 69.7,
+    "energy_use_per_person": 433,
+    "CO2_emission_per_person": 1.58
+  },
+  {
+    "countrycode": 119,
+    "population": 52400000,
+    "per_capita_income": 12300,
+    "life_expectancy": 81.6,
+    "energy_use_per_person": 2530,
+    "CO2_emission_per_person": 4.31
+  },
+  {
+    "countrycode": 120,
+    "population": 2430000,
+    "per_capita_income": 2300,
+    "life_expectancy": 81.5,
+    "energy_use_per_person": 2400,
+    "CO2_emission_per_person": 0.284
+  },
+  {
+    "countrycode": 121,
+    "population": 11300,
+    "per_capita_income": 46400,
+    "life_expectancy": 78,
+    "energy_use_per_person": 18600,
+    "CO2_emission_per_person": 9.91
+  },
+  {
+    "countrycode": 122,
+    "population": 28700000,
+    "per_capita_income": 34600,
+    "life_expectancy": 61.2,
+    "energy_use_per_person": 1900,
+    "CO2_emission_per_person": 7.59
+  },
+  {
+    "countrycode": 123,
+    "population": 16900000,
+    "per_capita_income": 4960,
+    "life_expectancy": 64,
+    "energy_use_per_person": 4710,
+    "CO2_emission_per_person": 0.809
+  },
+  {
+    "countrycode": 124,
+    "population": 4610000,
+    "per_capita_income": 897,
+    "life_expectancy": 70.6,
+    "energy_use_per_person": 318,
+    "CO2_emission_per_person": 0.111
+  },
+  {
+    "countrycode": 125,
+    "population": 6080000,
+    "per_capita_income": 5670,
+    "life_expectancy": 82.1,
+    "energy_use_per_person": 270,
+    "CO2_emission_per_person": 0.546
+  },
+  {
+    "countrycode": 126,
+    "population": 19900000,
+    "per_capita_income": 1390,
+    "life_expectancy": 77.4,
+    "energy_use_per_person": 5560,
+    "CO2_emission_per_person": 1.61
+  },
+  {
+    "countrycode": 127,
+    "population": 181000000,
+    "per_capita_income": 63700,
+    "life_expectancy": 67.3,
+    "energy_use_per_person": 253,
+    "CO2_emission_per_person": 9.27
+  },
+  {
+    "countrycode": 128,
+    "population": 25200000,
+    "per_capita_income": 40100,
+    "life_expectancy": 71.8,
+    "energy_use_per_person": 2250,
+    "CO2_emission_per_person": 15.4
+  },
+  {
+    "countrycode": 129,
+    "population": 5200000,
+    "per_capita_income": 4700,
+    "life_expectancy": 78.7,
+    "energy_use_per_person": 2410,
+    "CO2_emission_per_person": 0.896
+  },
+  {
+    "countrycode": 130,
+    "population": 4200000,
+    "per_capita_income": 14400,
+    "life_expectancy": 60.5,
+    "energy_use_per_person": 4680,
+    "CO2_emission_per_person": 12.3
+  },
+  {
+    "countrycode": 131,
+    "population": 189000000,
+    "per_capita_income": 2650,
+    "life_expectancy": 74.4,
+    "energy_use_per_person": 3320,
+    "CO2_emission_per_person": 0.626
+  },
+  {
+    "countrycode": 132,
+    "population": 21300,
+    "per_capita_income": 20700,
+    "life_expectancy": 79.5,
+    "energy_use_per_person": 3630,
+    "CO2_emission_per_person": 2.25
+  },
+  {
+    "countrycode": 133,
+    "population": 4660000,
+    "per_capita_income": 2750,
+    "life_expectancy": 70.1,
+    "energy_use_per_person": 130,
+    "CO2_emission_per_person": 0.815
+  },
+  {
+    "countrycode": 134,
+    "population": 3970000,
+    "per_capita_income": 8640,
+    "life_expectancy": 77.7,
+    "energy_use_per_person": 2730,
+    "CO2_emission_per_person": 0.87
+  },
+  {
+    "countrycode": 135,
+    "population": 7920000,
+    "per_capita_income": 11800,
+    "life_expectancy": 80.8,
+    "energy_use_per_person": 4560,
+    "CO2_emission_per_person": 1.99
+  },
+  {
+    "countrycode": 136,
+    "population": 6640000,
+    "per_capita_income": 6880,
+    "life_expectancy": 80.5,
+    "energy_use_per_person": "",
+    "CO2_emission_per_person": 1.06
+  },
+  {
+    "countrycode": 137,
+    "population": 31400000,
+    "per_capita_income": 25300,
+    "life_expectancy": 75.1,
+    "energy_use_per_person": 3180,
+    "CO2_emission_per_person": 7.46
+  },
+  {
+    "countrycode": 138,
+    "population": 102000000,
+    "per_capita_income": 26500,
+    "life_expectancy": 70.8,
+    "energy_use_per_person": 467,
+    "CO2_emission_per_person": 4.3
+  },
+  {
+    "countrycode": 139,
+    "population": 38300000,
+    "per_capita_income": 120000,
+    "life_expectancy": 67.3,
+    "energy_use_per_person": 1670,
+    "CO2_emission_per_person": 45.4
+  },
+  {
+    "countrycode": 140,
+    "population": 10400000,
+    "per_capita_income": 20500,
+    "life_expectancy": 71.7,
+    "energy_use_per_person": 765,
+    "CO2_emission_per_person": 3.5
+  },
+  {
+    "countrycode": 141,
+    "population": 2480000,
+    "per_capita_income": 24100,
+    "life_expectancy": 70.3,
+    "energy_use_per_person": 642,
+    "CO2_emission_per_person": 11.9
+  },
+  {
+    "countrycode": 142,
+    "population": 19900000,
+    "per_capita_income": 1720,
+    "life_expectancy": 76.8,
+    "energy_use_per_person": 366,
+    "CO2_emission_per_person": 0.074
+  },
+  {
+    "countrycode": 143,
+    "population": 144000000,
+    "per_capita_income": 5560,
+    "life_expectancy": 65.9,
+    "energy_use_per_person": 1120,
+    "CO2_emission_per_person": 1.03
+  },
+  {
+    "countrycode": 144,
+    "population": 11600000,
+    "per_capita_income": 39200,
+    "life_expectancy": 75.7,
+    "energy_use_per_person": 372,
+    "CO2_emission_per_person": 0.594
+  },
+  {
+    "countrycode": 145,
+    "population": 194000,
+    "per_capita_income": 2940,
+    "life_expectancy": 73.7,
+    "energy_use_per_person": 5470,
+    "CO2_emission_per_person": 19.5
+  },
+  {
+    "countrycode": 146,
+    "population": 33000,
+    "per_capita_income": 50700,
+    "life_expectancy": 57.6,
+    "energy_use_per_person": 3410,
+    "CO2_emission_per_person": 0.609
+  },
+  {
+    "countrycode": 147,
+    "population": 196000,
+    "per_capita_income": 2300,
+    "life_expectancy": 83.6,
+    "energy_use_per_person": 1150,
+    "CO2_emission_per_person": 4.24
+  },
+  {
+    "countrycode": 148,
+    "population": 31600000,
+    "per_capita_income": 13300,
+    "life_expectancy": 76.8,
+    "energy_use_per_person": 361,
+    "CO2_emission_per_person": 5.31
+  },
+  {
+    "countrycode": 149,
+    "population": 15000000,
+    "per_capita_income": 25500,
+    "life_expectancy": 80.7,
+    "energy_use_per_person": 441,
+    "CO2_emission_per_person": 0.185
+  },
+  {
+    "countrycode": 150,
+    "population": 8850000,
+    "per_capita_income": 1320,
+    "life_expectancy": 62.8,
+    "energy_use_per_person": 1590,
+    "CO2_emission_per_person": 10.3
+  },
+  {
+    "countrycode": 151,
+    "population": 93700,
+    "per_capita_income": 80900,
+    "life_expectancy": 57.3,
+    "energy_use_per_person": 57.3,
+    "CO2_emission_per_person": 5.65
+  },
+  {
+    "countrycode": 152,
+    "population": 7240000,
+    "per_capita_income": 28300,
+    "life_expectancy": 61.8,
+    "energy_use_per_person": 410,
+    "CO2_emission_per_person": 6.19
+  },
+  {
+    "countrycode": 153,
+    "population": 5540000,
+    "per_capita_income": 29100,
+    "life_expectancy": 80.9,
+    "energy_use_per_person": 567,
+    "CO2_emission_per_person": 0.35
+  },
+  {
+    "countrycode": 154,
+    "population": 5440000,
+    "per_capita_income": 2050,
+    "life_expectancy": 58.9,
+    "energy_use_per_person": 14600,
+    "CO2_emission_per_person": 0.045
+  },
+  {
+    "countrycode": 155,
+    "population": 2070000,
+    "per_capita_income": 623,
+    "life_expectancy": 82.9,
+    "energy_use_per_person": 878,
+    "CO2_emission_per_person": 8.98
+  },
+  {
+    "countrycode": 156,
+    "population": 587000,
+    "per_capita_income": 12400,
+    "life_expectancy": 77.2,
+    "energy_use_per_person": 1440,
+    "CO2_emission_per_person": 11.7
+  },
+  {
+    "countrycode": 157,
+    "population": 13900000,
+    "per_capita_income": 34200,
+    "life_expectancy": 76.1,
+    "energy_use_per_person": 4590,
+    "CO2_emission_per_person": 0.13
+  },
+  {
+    "countrycode": 158,
+    "population": 55300000,
+    "per_capita_income": 1810,
+    "life_expectancy": 71.6,
+    "energy_use_per_person": 3000,
+    "CO2_emission_per_person": 5.03
+  },
+  {
+    "countrycode": 159,
+    "population": 50600000,
+    "per_capita_income": 32200,
+    "life_expectancy": 68,
+    "energy_use_per_person": 8300,
+    "CO2_emission_per_person": 0.892
+  },
+  {
+    "countrycode": 160,
+    "population": 11900000,
+    "per_capita_income": 11100,
+    "life_expectancy": 71.2,
+    "energy_use_per_person": 3440,
+    "CO2_emission_per_person": 4.3
+  },
+  {
+    "countrycode": 161,
+    "population": 46400000,
+    "per_capita_income": 24100,
+    "life_expectancy": 56.4,
+    "energy_use_per_person": 7760,
+    "CO2_emission_per_person": 2.31
+  },
+  {
+    "countrycode": 162,
+    "population": 20700000,
+    "per_capita_income": 10700,
+    "life_expectancy": 82.1,
+    "energy_use_per_person": 948,
+    "CO2_emission_per_person": 1.91
+  },
+  {
+    "countrycode": 163,
+    "population": 54300,
+    "per_capita_income": 10500,
+    "life_expectancy": 83.1,
+    "energy_use_per_person": 1780,
+    "CO2_emission_per_person": 0.407
+  },
+  {
+    "countrycode": 164,
+    "population": 177000,
+    "per_capita_income": 4290,
+    "life_expectancy": 68.4,
+    "energy_use_per_person": 159,
+    "CO2_emission_per_person": 3.63
+  },
+  {
+    "countrycode": 165,
+    "population": 109000,
+    "per_capita_income": 14800,
+    "life_expectancy": 71.6,
+    "energy_use_per_person": 2100,
+    "CO2_emission_per_person": 0.929
+  },
+  {
+    "countrycode": 166,
+    "population": 38600000,
+    "per_capita_income": 8050,
+    "life_expectancy": 63.5,
+    "energy_use_per_person": 530,
+    "CO2_emission_per_person": 4.48
+  },
+  {
+    "countrycode": 167,
+    "population": 553000,
+    "per_capita_income": 45500,
+    "life_expectancy": 77.6,
+    "energy_use_per_person": 317,
+    "CO2_emission_per_person": 4.29
+  },
+  {
+    "countrycode": 168,
+    "population": 1320000,
+    "per_capita_income": 56500,
+    "life_expectancy": 72.6,
+    "energy_use_per_person": 589,
+    "CO2_emission_per_person": 1.6
+  },
+  {
+    "countrycode": 169,
+    "population": 9760000,
+    "per_capita_income": 3500,
+    "life_expectancy": 62.1,
+    "energy_use_per_person": 724,
+    "CO2_emission_per_person": 0.62
+  },
+  {
+    "countrycode": 170,
+    "population": 8320000,
+    "per_capita_income": 2640,
+    "life_expectancy": 70.3,
+    "energy_use_per_person": 2007,
+    "CO2_emission_per_person": 0.221
+  },
+  {
+    "countrycode": 171,
+    "population": 18700000,
+    "per_capita_income": 2490,
+    "life_expectancy": 73.1,
+    "energy_use_per_person": 680,
+    "CO2_emission_per_person": 4.62
+  },
+  {
+    "countrycode": 172,
+    "population": 8550000,
+    "per_capita_income": 15200,
+    "life_expectancy": 77.4,
+    "energy_use_per_person": 1070,
+    "CO2_emission_per_person": 0.387
+  },
+  {
+    "countrycode": 173,
+    "population": 53900000,
+    "per_capita_income": 2150,
+    "life_expectancy": 79,
+    "energy_use_per_person": 470,
+    "CO2_emission_per_person": 0.363
+  },
+  {
+    "countrycode": 174,
+    "population": 68700000,
+    "per_capita_income": 1350,
+    "life_expectancy": 69.9,
+    "energy_use_per_person": 1600,
+    "CO2_emission_per_person": 1.14
+  },
+  {
+    "countrycode": 175,
+    "population": 1240000,
+    "per_capita_income": 5190,
+    "life_expectancy": 61.6,
+    "energy_use_per_person": 1850,
+    "CO2_emission_per_person": 34.2
+  },
+  {
+    "countrycode": 176,
+    "population": 7420000,
+    "per_capita_income": 31300,
+    "life_expectancy": 71.9,
+    "energy_use_per_person": 973,
+    "CO2_emission_per_person": 2.59
+  },
+  {
+    "countrycode": 177,
+    "population": 106000,
+    "per_capita_income": 10800,
+    "life_expectancy": 76.5,
+    "energy_use_per_person": 5870,
+    "CO2_emission_per_person": 4.49
+  },
+  {
+    "countrycode": 178,
+    "population": 1360000,
+    "per_capita_income": 23400,
+    "life_expectancy": 80.8,
+    "energy_use_per_person": 4020,
+    "CO2_emission_per_person": 12.5
+  },
+  {
+    "countrycode": 179,
+    "population": 11300000,
+    "per_capita_income": 15000,
+    "life_expectancy": 78.8,
+    "energy_use_per_person": 1410,
+    "CO2_emission_per_person": 1.01
+  },
+  {
+    "countrycode": 180,
+    "population": 78300000,
+    "per_capita_income": 3320,
+    "life_expectancy": 77.1,
+    "energy_use_per_person": 2070,
+    "CO2_emission_per_person": 0.135
+  },
+  {
+    "countrycode": 181,
+    "population": 5570000,
+    "per_capita_income": 1690,
+    "life_expectancy": 70,
+    "energy_use_per_person": 11200,
+    "CO2_emission_per_person": 5.06
+  },
+  {
+    "countrycode": 182,
+    "population": 11000,
+    "per_capita_income": 7470,
+    "life_expectancy": 63.6,
+    "energy_use_per_person": 173,
+    "CO2_emission_per_person": 23.3
+  },
+  {
+    "countrycode": 183,
+    "population": 40100000,
+    "per_capita_income": 66000,
+    "life_expectancy": 75.5,
+    "energy_use_per_person": 1450,
+    "CO2_emission_per_person": 6.46
+  },
+  {
+    "countrycode": 184,
+    "population": 44700000,
+    "per_capita_income": 38500,
+    "life_expectancy": 74.3,
+    "energy_use_per_person": 2920,
+    "CO2_emission_per_person": 16.5
+  },
+  {
+    "countrycode": 185,
+    "population": 9150000,
+    "per_capita_income": 52800,
+    "life_expectancy": 67.2,
+    "energy_use_per_person": 5340,
+    "CO2_emission_per_person": 1.97
+  },
+  {
+    "countrycode": 186,
+    "population": 65400000,
+    "per_capita_income": 19800,
+    "life_expectancy": 58.1,
+    "energy_use_per_person": 597,
+    "CO2_emission_per_person": 3.45
+  },
+  {
+    "countrycode": 187,
+    "population": 320000000,
+    "per_capita_income": 5700,
+    "life_expectancy": 58.3,
+    "energy_use_per_person": 379,
+    "CO2_emission_per_person": 0.595
+  },
+  {
+    "countrycode": 188,
+    "population": 3430000,
+    "per_capita_income": 2810,
+    "life_expectancy": 2015,
+    "energy_use_per_person": 355,
+    "CO2_emission_per_person": 6.03
+  },
+  {
+    "countrycode": 189,
+    "population": 31000000,
+    "per_capita_income": 15600,
+    "life_expectancy": 57.9,
+    "energy_use_per_person": 561,
+    "CO2_emission_per_person": 1.8
+  },
+  {
+    "countrycode": 190,
+    "population": 265000,
+    "per_capita_income": 5670,
+    "life_expectancy": 77.6,
+    "energy_use_per_person": 1410,
+    "CO2_emission_per_person": 0.865
+  },
+  {
+    "countrycode": 191,
+    "population": 31200000,
+    "per_capita_income": 2640,
+    "life_expectancy": 77.3,
+    "energy_use_per_person": 1040,
+    "CO2_emission_per_person": 0.288
+  },
+  {
+    "countrycode": 192,
+    "population": 93600000,
+    "per_capita_income": 3630,
+    "life_expectancy": 82.5,
+    "energy_use_per_person": 1230,
+    "CO2_emission_per_person": 0.78
+  },
+  {
+    "countrycode": 193,
+    "population": 26900000,
+    "per_capita_income": 1890,
+    "life_expectancy": 64,
+    "energy_use_per_person": 8610,
+    "CO2_emission_per_person": 2014
+  },
+  {
+    "countrycode": 194,
+    "population": 16100000,
+    "per_capita_income": 2015,
+    "life_expectancy": 77.2,
+    "energy_use_per_person": 2670,
+    "CO2_emission_per_person": 0.299
+  },
+  {
+    "countrycode": 195,
+    "population": 15800000,
+    "per_capita_income": 1750,
+    "life_expectancy": 76.5,
+    "energy_use_per_person": 254,
+    "CO2_emission_per_person": 1.96
+  }
+]
